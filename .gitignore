@@ -5,3 +5,6 @@ ai_agent_interface/node_modules/
 ai_agent_extension/node_modules
 ai_agent_extension/package-lock.json
 test/
+.venv
+.DS_Store
+.vscode
