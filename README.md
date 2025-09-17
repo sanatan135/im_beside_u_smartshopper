@@ -7,6 +7,11 @@
   <img src="https://img.shields.io/badge/AI-Gemini%202.0-purple" alt="AI Model">
 </div>
 
+## Introduction
+**Name** - Venkatesh Sharma
+**university** - IIT Madras
+**Roll No** - MD23B028
+
 ##  Project Overview
 
 **ShopSmarter** is an intelligent AI-powered Personal Shopping Assistant that eases the daily task of going and searching manually on e commerce websites about the prducts you saw but you have no clue about what it is. This system analyzes images of apparel, accessories, home decor, gadgets, and other products  and also text in which you can provide description of the product you saw to suggest similar or complementary items, creating a truly personalized shopping journey.
